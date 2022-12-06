@@ -5,7 +5,7 @@
 ## Contacts:
 ---
 + Location: Zaporozhe, Ukraine
-+ Phone: UA
++ Phone: Ukrainian
 + Email: warning11223@gmail.com
 + GitHub: [github](https://github.com/warning11223)
 ---
